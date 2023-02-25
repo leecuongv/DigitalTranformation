@@ -19,7 +19,7 @@ function Menu() {
         }
         else {
             setData({
-                name: "Tuổi trẻ HCMUTE Tiên phong chuyển đổi số!",
+                name: "TUỔI TRẺ HCMUTE TIÊN PHONG CHUYỂN ĐỔI SỐ",
                 children: NHOMDICHVUFULL
             })
         }

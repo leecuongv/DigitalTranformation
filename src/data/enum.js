@@ -86,6 +86,29 @@ const NHOMDICHVU = {
 const NHOMDICHVUFULL = [
     {
         ID:1,
+        name:"NHÓM ỨNG DỤNG THANH TOÁN ĐIỆN TỬ",
+        url:'ttdt',
+        children:[
+            {
+                name:"Momo",
+                url:'Momo'
+            },
+            {
+                name:"VNPay",
+                url:'VNPay'
+            },
+            {
+                name:"Viettel Money",
+                url:'VIETTELMONEY'
+            },
+            {
+                name:"ZaloPay",
+                url:'ZaloPay'
+            }
+        ]
+    },
+    {
+        ID:2,
         name:"NHÓM ỨNG DỤNG CỔNG DỊCH VỤ CÔNG",
         url:'dvcong',
         children:[
@@ -108,7 +131,7 @@ const NHOMDICHVUFULL = [
         ]
     },
     {
-        ID:2,
+        ID:4,
         name:"NHÓM ỨNG DỤNG ĐOÀN VIÊN - HỘI VIÊN - SINH VIÊN",
         url:'dhsv',
         children:[
@@ -153,29 +176,7 @@ const NHOMDICHVUFULL = [
             }
         ]
     },
-    {
-        ID:4,
-        name:"NHÓM ỨNG DỤNG THANH TOÁN ĐIỆN TỬ",
-        url:'ttdt',
-        children:[
-            {
-                name:"Momo",
-                url:'Momo'
-            },
-            {
-                name:"VNPay",
-                url:'VNPay'
-            },
-            {
-                name:"Viettel Money",
-                url:'VIETTELMONEY'
-            },
-            {
-                name:"ZaloPay",
-                url:'ZaloPay'
-            }
-        ]
-    },
+    
 ]
 
 
