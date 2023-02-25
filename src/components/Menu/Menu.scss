@@ -3,7 +3,7 @@
     min-height: 160px;
     border-radius: 6px;
     border: none;
-    background-color: #2adef4;
+    background-color: #d0efff;
     width: 100%;
     color: #03254c;
     font-weight: 500;
@@ -28,13 +28,13 @@
         max-height: 80px;
     }
     &__home {
-        height: 40px;
+        height: 60px;
         width: 200px;
         position: fixed;
-        bottom: 36px;
+        bottom: 100px;
         left: 50%;
         transform: translateX(-50%);
-        padding: 8px 12px;
+        padding: 12px 12px;
         border-radius: 4px;
         border: 1px solid #38415c;
         background-color: #2997e0;
@@ -42,6 +42,7 @@
         font-weight: 500;
         font-size: 16px;
         text-align: center;
+        vertical-align: middle;
     }
 }
 
@@ -59,7 +60,7 @@ a {
     }
     &__content {
         width: 100%;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         padding: 12px;
         font-size: 25px;
         font-weight: bold;
