@@ -98,7 +98,7 @@ const NHOMDICHVUFULL = [
                 url:'VNPay'
             },
             {
-                name:"Viettel Money",
+                name:"ViettelMoney",
                 url:'VIETTELMONEY'
             },
             {
@@ -314,12 +314,7 @@ Tính năng cập nhật dữ liệu trực tuyến giúp người dùng chủ �
 7) Cập nhật thông tin thành phố
 BusMap cập nhật liên tục các thông tin về tình hình thời tiết, tình hình dịch tễ cùng các thông tin nổi bật khác của địa phương.`,
 
-chuyendoisoDescription :`Chuyển đổi số giúp người dân bình đẳng về cơ hội tiếp cận dịch vụ, đào tạo, tri thức, qua đó giúp thu hẹp khoảng cách số thông qua việc phát triển chính phủ số, kinh tế số và xã hội số. Cẩm nang là tài liệu tóm lược những điều quan trọng
-và thiết yếu về một vấn đề nào đó. Mỗi khi gặp phải chuyện
-khó, chưa rõ phương hướng để giải quyết, chúng ta lại tìm về
-cẩm nang, để quay trở lại với những gì cơ bản nhất, để từ đó suy
-ngẫm, tìm ra cách giải quyết vướng mắc và đi tiếp. Cuốn Cẩm
-nang Chuyển đổi số này ra đời với mục đích như vậy.
+chuyendoisoDescription :`Chuyển đổi số giúp người dân bình đẳng về cơ hội tiếp cận dịch vụ, đào tạo, tri thức, qua đó giúp thu hẹp khoảng cách số thông qua việc phát triển chính phủ số, kinh tế số và xã hội số. Cẩm nang là tài liệu tóm lược những điều quan trọng và thiết yếu về một vấn đề nào đó. Mỗi khi gặp phải chuyện khó, chưa rõ phương hướng để giải quyết, chúng ta lại tìm về cẩm nang, để quay trở lại với những gì cơ bản nhất, để từ đó suy ngẫm, tìm ra cách giải quyết vướng mắc và đi tiếp. Cuốn Cẩm nang Chuyển đổi số này ra đời với mục đích như vậy.
 1) Chuyển đổi số quốc gia là gì?
 Chuyển đổi số quốc gia bao gồm 3 cấu phần chính, lần lượt là chuyển đổi số trong hoạt động của cơ quan nhà nước nhằm phát triển chính phủ số, chuyển đổi số trong hoạt động của doanh nghiệp nhằm phát triển kinh tế số, chuyển đổi số trong hoạt động của người dân nhằm phát triển xã hội số.
 2) Vì sao Việt Nam cần chuyển đổi số?
@@ -359,12 +354,10 @@ VnExpress cũng cung cấp nhiều công cụ hỗ trợ hữu ích. Trước h�
 7) Tin đã xem: Cung cấp lịch sử đọc báo của bạn, giúp tìm lại các bài báo đã từng đọc trước đó
 Tin đã xem là một chức năng khá quan trọng của ứng dụng đọc báo VnExpress, chức năng này có nghĩa sau khi bạn đọc một mẫu tin nào đó và muốn tìm lại nhanh chóng thì bạn có thể tìm ở phần tin đã xem, nơi đây sẽ chứa tất cả những bài báo mà bạn đã nhấn vào xem. Giúp người dùng không phải tốn nhiều thời gian để tìm lại bất kỳ thông tin nào.`,
 
-momoDescription :`Ví điện tử MoMo là sản phẩm của Công ty M_Service. 
-Ví điện tử MoMo cho phép bạn tạo và nạp tiền vào tài khoản MoMo để thanh toán cho hơn 200 dịch vụ như nạp tiền điện thoại, thanh toán điện nước, thanh toán vay tiêu dùng,...
+momoDescription :`Ví điện tử MoMo là sản phẩm của Công ty M_Service. Dưới đây là một số đặt điểm nổi bật của Ví điện tử Momo:
 1) Thanh toán hóa đơn, dịch vụ nhanh chóng, tiện lợi.
 Ví MoMo cho phép người sử dụng dễ dàng thanh toán các dịch vụ cần thiết trong đời sống hằng ngày như các loại hóa đơn tiền điện, tiền nước, internet, truyền hình cáp, bảo hiểm, thanh toán vé máy bay, tàu xe,...
-2)  Quét mã QR và thanh toán khi mua sắm dễ dàng.
-Ví MoMo còn có khả năng thanh toán bằng cách quét mã QR khi mua sắm tại các chuỗi cửa hàng tiện lợi, siêu thị.
+2)  Quét mã QR và thanh toán khi mua sắm dễ dàng khi mua sắm tại các chuỗi cửa hàng tiện lợi, siêu thị.
 3)  Chuyển tiền, nhận tiền nhanh chóng.
 Chuyển tiền đến Ví MoMo hoàn toàn miễn phí, chỉ cần số điện thoại người nhận; miễn phí rút tiền về ngân hàng liên kết.
 Chuyển tiền đến 45 ngân hàng nội địa tiện lợi, nhanh chóng, hoàn toàn bảo mật; nhận tiền tức thì, 24/7 (bao gồm cả cuối tuần và ngày lễ).
@@ -378,8 +371,6 @@ Bảo mật nhiều tầng khi đăng nhập & thanh toán: Mã xác thực OTP,
 
 vnpayDescription :`Ví điện tử VNPAY do Công ty Cổ phần giải pháp thanh toán Việt Nam (VNPAY) – đơn vị hàng đầu trong lĩnh vực thanh toán điện tử tại Việt Nam phát triển. Ra mắt phiên bản mới nhất vào đầu tháng 3/2021, ví VNPAY được biết đến là ví điện tử dành cho gia đình. Với giao diện đẹp mắt, thân thiện bố cục được sắp xếp khoa học cùng các tiện ích chuyên nghiệp người dùng có thể dễ dàng sử dụng ví điện tử VNPAY.
 1) Mở ví cho mình, người thân dễ dàng
-Ví điện tử VNPAY do Công ty Cổ phần giải pháp thanh toán Việt Nam (VNPAY) – đơn vị hàng đầu trong lĩnh vực thanh toán điện tử tại Việt Nam phát triển. Ra mắt phiên bản mới nhất vào đầu tháng 3/2021, ví VNPAY được biết đến là ví điện tử dành cho gia đình.
-Với giao diện đẹp mắt, thân thiện bố cục được sắp xếp khoa học cùng các tiện ích chuyên nghiệp người dùng có thể dễ dàng sử dụng ví điện tử VNPAY.
 Để tạo ví gia đình cho người thân, người dùng chọn tính năng ví gia đình và tạo mới ví thành viên cho người thân trên ứng dụng. Ví thành viên có thể sử dụng đa dạng các tính năng, tiện ích trên ví VNPAY bao gồm: các giao dịch thanh toán, mua sắm online và nhiều các tính năng khác…
 2) Hệ sinh thái tiện ích đa dạng từ thanh toán đến đặt vé…
 Khi người dùng ngày càng chuộng phong cách sống hiện đại với các dịch vụ tiện lợi, ưa thích các dịch vụ số từ thanh toán, di chuyển tới mua sắm… VNPAY phát triển hệ sinh thái dịch vụ đa dạng gắn liền với những nhu cầu thường nhật.
@@ -388,7 +379,7 @@ Hệ sinh thái tiện ích trên ví VNPAY trải rộng từ chuyển tiền, 
 Đặc biệt, tiện ích quét mã giúp người dùng ví VNPAY có thể thanh toán hàng hóa, dịch vụ bằng phương thức thanh toán VNPAY-QR tại hơn 100.000 điểm chấp nhận. Với các khách hàng sử dụng ứng dụng không có phương thức thanh bằng toán bằng VNPAY-QR thì đây là lựa chọn tối ưu.
 VNPAY-QR có mặt trong khắp tất cả các ngành nghề, dịch vụ từ siêu thị, vận tải, viễn thông, y tế, giáo dục, dịch vụ ăn uống, rạp chiếu phim… mang lại những trải nghiệm mua sắm thú vị cho khách hàng. Đây cũng là mã QR thanh toán duy nhất trên thị trường đáp ứng “Tiêu chuẩn cơ sở QR Code” của Ngân hàng Nhà nước.`,
 
-viettelpayDescription :`Viettel Money có thể hiểu đơn giản là 1 loại ví điện tử mới ra mắt được phát triển bởi tập đoàn viễn thông Quân Đội – Viettel trên cơ sở nền tảng Viettel Pay trước đó. Tuy nhiên ứng dụng này đã và đang được cải thiện và nâng cấp để thân thiện hơn với người sử dụng.
+viettelmoneyDescription :`Viettel Money có thể hiểu đơn giản là 1 loại ví điện tử mới ra mắt được phát triển bởi tập đoàn viễn thông Quân Đội – Viettel trên cơ sở nền tảng Viettel Pay trước đó. Tuy nhiên ứng dụng này đã và đang được cải thiện và nâng cấp để thân thiện hơn với người sử dụng.
 1. Đăng ký đơn giản
 Thao tác đăng ký đơn giản, nhanh chóng chỉ trong áp dụng cho mọi đối tượng khách hàng từ mọi loại thiết bị di động không tốn bất kỳ khoản phí duy trì nào.
 2. Chuyển tiền không giới hạn, hoàn toàn miễn phí
