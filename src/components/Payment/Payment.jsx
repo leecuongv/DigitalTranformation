@@ -66,7 +66,12 @@ function Payment() {
                         )}
 
                     </div>
-
+                    {
+                         
+                        <Link to={'/'} className='payment__home'>
+                            TRANG CHỦ
+                        </Link>
+                    }
                 </div>
 
             </div>
