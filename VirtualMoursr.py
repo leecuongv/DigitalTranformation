@@ -5,9 +5,9 @@ import time
 import numpy as np
 
 ##########################
-wCam, hCam = 2048, 1356
+wCam, hCam = 1920, 1080
 frameR = 0 # Frame Reduction
-smoothening = 2
+smoothening = 3
 #########################
 pTime = 0
 plocX, plocY = 0, 0
@@ -27,7 +27,7 @@ cv2.namedWindow("Digital Mourse", cv2.WND_PROP_FULLSCREEN)
 cv2.setWindowProperty("Digital Mourse",cv2.WND_PROP_FULLSCREEN,cv2.WINDOW_FULLSCREEN)
 while True:
     success, img = cap.read()
-    # img = cv2.flip(img, 1)
+    #img = cv2.flip(img, 1)
     hands, img = detector.findHands(img, flipType=False, )
 
     if hands:
