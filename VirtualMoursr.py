@@ -1,21 +1,26 @@
 import autopy
+import pyautogui
+
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 import time
 import numpy as np
 
 ##########################
-wCam, hCam = 1920, 1080
+wCam, hCam = 1280, 720
 frameR = 0 # Frame Reduction
 smoothening = 3
 #########################
 pTime = 0
 plocX, plocY = 0, 0
 clocX, clocY = 0, 0
+pyautogui.FAILSAFE = False
+screenWidth, screenHeight = pyautogui.size()
 
 cap = cv2.VideoCapture(1)
-cap.set(3, wCam)
-cap.set(4, hCam)
+
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, screenWidth)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, screenHeight)
 
 pTime = 0
 plocX, plocY = 0, 0
@@ -24,7 +29,8 @@ wScr, hScr = autopy.screen.size()
 
 detector = HandDetector(detectionCon=0.8, maxHands=1)
 cv2.namedWindow("Digital Mourse", cv2.WND_PROP_FULLSCREEN)
-cv2.setWindowProperty("Digital Mourse",cv2.WND_PROP_FULLSCREEN,cv2.WINDOW_FULLSCREEN)
+#cv2.setWindowProperty("Digital Mourse",cv2.WND_PROP_FULLSCREEN,cv2.WINDOW_FULLSCREEN)
+
 while True:
     success, img = cap.read()
     #img = cv2.flip(img, 1)
