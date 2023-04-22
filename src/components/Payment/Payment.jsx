@@ -69,13 +69,13 @@ function Payment() {
                     {
 
                         <Link to={`/${data?.url}`} className='payment__home'>
-                            Quay lại
+                            BACK
                         </Link>
                     }
                     {
 
                         <Link to={'/'} className="payment__back">
-                            TRANG CHỦ
+                            HOME
                         </Link>
 
 

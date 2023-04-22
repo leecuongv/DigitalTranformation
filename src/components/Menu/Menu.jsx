@@ -19,7 +19,7 @@ function Menu() {
         }
         else {
             setData({
-                name: "TUỔI TRẺ HCMUTE TIÊN PHONG CHUYỂN ĐỔI SỐ",
+                name: "HCMUTE Youth pioneers digital transformation.",
                 children: NHOMDICHVUFULL
             })
         }
@@ -54,7 +54,7 @@ function Menu() {
                     {
                         nhomdv && 
                         <Link to={'/'} className='btn__home'>
-                            TRANG CHỦ
+                            HOME
                         </Link>
                     }
                 </div>

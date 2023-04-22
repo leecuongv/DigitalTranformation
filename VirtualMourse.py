@@ -1,3 +1,9 @@
+#first run: pip install -r requirements.txt
+#python 3.8.9
+#https://www.python.org/downloads/release/python-389/
+
+#1920*1080
+
 import autopy
 import pyautogui
 
@@ -17,7 +23,7 @@ clocX, clocY = 0, 0
 pyautogui.FAILSAFE = False
 screenWidth, screenHeight = pyautogui.size()
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, screenWidth)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, screenHeight)
