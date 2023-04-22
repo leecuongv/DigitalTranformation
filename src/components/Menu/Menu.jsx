@@ -19,7 +19,7 @@ function Menu() {
         }
         else {
             setData({
-                name: "HCMUTE Youth pioneers digital transformation.",
+                name: "HCMUTE YOUTH PIONEERS DIGITAL TRANSFORMATION",
                 children: NHOMDICHVUFULL
             })
         }
