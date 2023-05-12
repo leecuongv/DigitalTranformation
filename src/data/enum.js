@@ -148,7 +148,7 @@ const NHOMDICHVUFULL = [
                 url: 'TuoiTreThanhPhoBac'
             },
             {
-                name: "YOUTH",
+                name: "Đại Hội XI",
                 url: 'YOUTH'
             }
         ]
@@ -288,14 +288,12 @@ Thanh niên Việt Nam là ứng dụng trực tuyến đầu tiên của Đoàn
     tuoitrethanhphobacDescription: `Ứng dụng Tuổi trẻ Thành phố Bác là ứng dụng phục vụ Đại hội Đoàn các cấp với các tính năng sau như thực hiện điểm danh quét mã bằng QR code, tạo phòng họp và sắp xếp chỗ ngồi tự động, số hóa công tác biểu quyết và thông kê kết quả tự động, số hóa và phổ biến tài liệu đại hội, số hóa công tác trao đổi thông tin và đăng ký phát biểu của đại biểu tham dự... Thực hiện in danh sách trích ngang đại biểu, in báo cáo thẩm tra tư cách đại biểu và các báo cáo khác tự động theo yêu cầu. Ứng dụng cho phép xem bản đồ các Đại hội đoàn đã diễn ra, đang diễn ra và sắp diễn ra.
 Ngoài ra, ứng dụng là kênh quản lý đoàn viên trên địa bàn Thành phố, góp phần thực hiện chuyển đổi số trong công tác Đoàn và phong trào thanh thiếu nhi Thành phố. Bên cạnh đó, ứng dụng phục vụ công tác thông tin, tuyên truyền và là kênh trao đổi thông tin liên lạc giữa các đoàn viên, thanh niên Thành phố.
 `,
-    youthDescription: `Với nỗ lực tăng cường chuyển đổi số trong việc kiến tạo môi trường giao lưu, học hỏi và quản lý thông minh dành cho các bạn sinh viên, Đoàn Thanh niên - Hội Sinh viên trường ĐH Sư phạm Kỹ thuật Hồ Chí Minh chính thức ra mắt phiên bản mới của Website https://youth.hcmute.edu.vn/ - Kênh thông tin chính thức của Đoàn Thanh niên - Hội Sinh viên Trường.
-YOUTH HCMUTE là nền tảng giúp các bạn sinh viên có thể theo dõi nhanh chóng, đăng ký thuận lợi và khám phá nhanh về các thông tin, chương trình, hoạt động mới nhất.
-Ngoài ra, website là hệ thống đánh giá chính thức Học phần "Lãnh đạo & Kinh doanh trong Kỹ thuật". Chỉ cần một cú Click chuột, học phần không còn là trở ngại !!!
-Các tính năng chính của website:
-- Giao diện thân thiện, tiện lợi với tài khoản sinh viên.
-- Theo dõi và đăng ký tham gia các chương trình, hoạt động rèn luyện dành cho sinh viên.
-- Cập nhật nhanh nhất kết quả Học phần.
-- Cổng thông tin "Ý tưởng sáng tạo" HCMUTE - Nơi ươm mầm những đam mê - Khởi nguồn sáng tạo.`,
+    youthDescription: `Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI được tổ chức với sự tham gia của hơn 1.000 đại biểu, đại diện cho hơn 2,5 triệu sinh viên đang học tập tại các trường đại học, cao đẳng trên toàn quốc. Đại hội đã diễn ra trong ba ngày với nhiều hoạt động quan trọng như tập huấn, hội thảo, bầu cử và lễ kết nạp đại biểu mới vào Hội.
+
+    Tại đại hội này, các đại biểu đã thảo luận và thống nhất đưa ra nhiều chương trình và giải pháp nhằm nâng cao chất lượng giáo dục, tạo điều kiện cho sinh viên phát triển và đóng góp vào sự phát triển của đất nước. Điều này bao gồm việc xây dựng một môi trường học tập chuyên nghiệp, tăng cường nghiên cứu khoa học và đổi mới phương pháp giảng dạy, cũng như nâng cao trình độ ngoại ngữ của sinh viên.
+    
+    Đại hội cũng đã bầu ra Ban Chấp hành Trung ương Hội Sinh viên Việt Nam mới, với các vị trí chủ chốt bao gồm Chủ tịch, Phó Chủ tịch và Ủy viên Ban Chấp hành. Ban Chấp hành mới sẽ tiếp tục thực hiện các hoạt động và đưa ra các chính sách nhằm phát triển Hội Sinh viên Việt Nam trong tương lai.
+    `,
 
     busmapDescription: `BusMap là một sản phẩm công nghệ giao thông thông minh của Phenikaa Maas, được sáng lập bởi Lê Yên Thanh và nhóm bạn với mong muốn mang đến một giải pháp có thể giải quyết những khó khăn, bất tiện thường gặp khi sử dụng phương tiện giao thông công cộng 
 Ra mắt vào năm 2013, bên cạnh các phản hồi tích cực, BusMap cũng đã nhận được rất nhiều đóng góp có giá trị từ người dùng. Với tinh thần lắng nghe, học hỏi và không ngừng đổi mới, các nhược điểm của BusMap đã được khắc phục để ứng dụng ngày càng trở nên hoàn thiện hơn.
