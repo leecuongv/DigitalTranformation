@@ -19,7 +19,7 @@ function Menu() {
         }
         else {
             setData({
-                name: "HCMUTE YOUTH PIONEERS DIGITAL TRANSFORMATION",
+                name: "NHÀ HỘI UTE & ỨNG DỤNG CHUYỂN GIAO CÔNG NGHỆ SỐ",
                 children: NHOMDICHVUFULL
             })
         }
@@ -41,9 +41,9 @@ function Menu() {
                                     nhomdv ?
                                         `/${nhomdv}/${item.url?.toLowerCase()}`
                                         : `/${item.url?.toLowerCase()}`}>
-                                    <button className={`btn menu__item ${!nhomdv?'none-img':''}`}>
-                                        {nhomdv &&<img src={LOGO['LOGO' + item.url?.toUpperCase()]} alt="" />}
-                                        
+                                    <button className={`btn menu__item ${!nhomdv ? 'none-img' : ''}`}>
+                                        {nhomdv && <img src={LOGO['LOGO' + item.url?.toUpperCase()]} alt="" />}
+
                                         {item.name}
                                     </button>
                                 </Link>
@@ -52,9 +52,9 @@ function Menu() {
                     </div>
 
                     {
-                        nhomdv && 
+                        nhomdv &&
                         <Link to={'/'} className='btn__home'>
-                            HOME
+                            Trang chủ
                         </Link>
                     }
                 </div>

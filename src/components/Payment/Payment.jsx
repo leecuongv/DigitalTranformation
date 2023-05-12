@@ -69,13 +69,13 @@ function Payment() {
                     {
 
                         <Link to={`/${data?.url}`} className='payment__home'>
-                            BACK
+                            Trở về
                         </Link>
                     }
                     {
 
                         <Link to={'/'} className="payment__back">
-                            HOME
+                            Trang chủ
                         </Link>
 
 
