@@ -19,7 +19,7 @@ function Menu() {
         }
         else {
             setData({
-                name: "NHÀ HỘI UTE & ỨNG DỤNG CHUYỂN GIAO CÔNG NGHỆ SỐ",
+                name: "TOP ứng dụng Hội viên, Sinh viên cần phải biết",
                 children: NHOMDICHVUFULL
             })
         }
